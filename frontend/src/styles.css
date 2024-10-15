@@ -1,0 +1,20 @@
+/* src/styles.css */
+
+/* Example: Smooth transition for hover effects */
+.transition-transform {
+    transition: transform 0.2s ease-in-out;
+}
+
+/* Example: Custom scrollbar for better aesthetics */
+.overflow-x-auto::-webkit-scrollbar {
+    height: 8px;
+}
+
+.overflow-x-auto::-webkit-scrollbar-thumb {
+    background-color: #444;
+    border-radius: 4px;
+}
+
+.overflow-x-auto::-webkit-scrollbar-track {
+    background-color: #1E1E2F;
+}
