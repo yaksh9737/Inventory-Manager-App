@@ -22,5 +22,21 @@ The Inventory Manager App is a full CRUD application built with the MERN stack (
    ```bash
    git clone https://github.com/yaksh9737/Inventory-Manager-App.git
 2. Navigate to the project directory:
-  cd Inventory-Manager-App
+   ```bash
+   cd Inventory-Manager-App
+3. Install dependencies for the frontend and backend:
+   ```bash
+   cd frontend
+   npm install
+   cd ../backend
+   npm install
 
+## Usage 
+1. Start the backend server:
+   ```bash
+   cd backend
+   npm start
+2.Start the frontend application:
+   ```bash
+   cd backend
+   npm start
